@@ -1,0 +1,11 @@
+For those wondering, pretty much any rifle or pistol with a magazine works like this:
+
+Loading the Bullet
+------------------
+
+The magizine is always pushing the bullet up. When you pull the bolt handle back, you get behind the next bullet in the magazine, allowing for the bullet to be pushed forward into the barrel. As for why the previous casing gets ejected, I have no clue.
+
+Firing the bullet
+-----------------
+
+In short, firing pin hit back of casing, gunpowder go bang, bullet fires. In long, Once cocked, the firing pin is pulled back. When the trigger is pulled, it releases the firing pin, hitting the primer and causing a spark. This spark ignites gunpowder inside the cartridge, creating an explosion. The explosion then pushes the bullet out of the barrel, to the target. This goes for all firearms except things like explosives.

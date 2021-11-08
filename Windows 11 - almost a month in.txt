@@ -1,0 +1,54 @@
+Windows 11 - Almost 1 Month In
+================================
+
+It's been almost a month since Windows 11 was originally available to isniders. Here's my thoughts on it so far.
+
+First Impressions
+=================
+
+When the leaked build of Windows 11 came out, I thought it was just a PR stunt by Microsoft to hype up 21H2? 22H1? 22H2? A Windoes 10 build, basically. I saw people's videos on it and I thought it looked fine. The one thing I was grateful for was the option to move the icons back to the left side. I wasn't, and still am not, a big fan of the new start menu. I see what Microsoft was getting at, but it just feels too oversimplified.
+
+Release to Insiders
+===================
+
+I've been in the Windows Insider program for quite a while on my main machine (probably not the best idea) and they've been fairly stable. I've gotta say though, Microsoft really outdid themselves with stability in the initial build. There were times that Explorer would crash just from opening the calendar. Of course, I should add that they've definitely made the shell, at least, a lot more stable. Since the release, pretty much, I've been trying to get the old right-click context menu back and the old start menu. For the old start menu, it seems to no longer be accessible. The old context menu is still accessible through a button on the new right-click menu, but this just makes getting to the old context menu a pain and kind of tells me that even Microsoft knew the old one was better, or at least the new one was rushed. The calendar and notifications being moved to the same menu and the volume, network, and action center being merged took some getting used to, but while it's not a good change, it's not the worst. The worst change has to be, at least for my setup where I already had a local account, the new explorer menu. Luckily, you can change it back with a registry tweak for the time being, but it has the same problem as the right-click menu, the start menu, and the new Mastercard logo: Oversimplification. They try to do just as much in less buttons, which actually makes the OS harder to use as a result. The transparency reminds me of Aero Glass, so I guess that's nice.
+
+Oh yeah I forgot about the rounded corners. I'm not a fan, but I know some people might like that.
+
+Apps Updated With Windows 11
+============================
+
+Microsoft Store
+---------------
+
+The redesign looks quite similar as long as you're browsing apps and I'd say it's actually an improvement visually.Once you enter your library, however, it all just falls apart. For starters, you can't sort by what's installed, so you have to look at Twitter and Candy Crush every time you check for updates. In addition, for doing anything with a game that's on game pass, you have to use the Xbox app, making your experience just that bit worse.
+
+Overall I'd give it a 5.5/10. Above average, but could be a lot better
+
+Xbox
+----
+
+Overall, it feels like another Microsoft Store. It's exactly the same app as on Windows 10 and has just as much not being able to post to your activity feed as I remember.
+
+Overall, 7/10. Not as bad as the Microsoft store, but not exactly good either.
+
+Settings
+--------
+
+It definitely looks better visually, but I'm still not too sure about the stuff on the left-hand side not changing.
+
+Overall a solid 9.9/10. About as well as you could do in my opinion. 
+
+Explorer.exe/Taskbar and Background and desktop
+-----------------------------------------------
+
+Like I said before, it was a lot less stable in the earlier builds, but now it basically never crashes for me. They said they moved the icons to the center so they were "centered around you." Odds are that was basically bullcrap. They were doing it to conform to the status quo. MacOS does it, ChromeOS (which cut into Windows market share) does it. Heck, even GNOME does it if you have the taskbar at the bottom. The merging of different stuff in the bottom right should've never happened. Now, your calendar is minimized initially and you don't get a seconds clock. The volume mixer was changed to open settings instead of the UI we've had for many Windows versions now, which slows down changing audio settings since the settings app has to load (Suggestion: EarTrumpet). The whole different backgrounds on different desktops is pretty cool though and while I don't use them, groups could probably be useful to someone.
+
+Definitely a 4/10, and that's being generous with the virtual desktops, groups, and ability to right-align the taskbar. What were you thinking Microsoft?
+
+Conclusion
+===========
+
+While Windows 11 has its strong suits, it's got almost nothing unique/groundbreaking and the things it does have just seem to be worse versions of things in Windows 10. Am I being a bit too harsh for a pre-release version of Windows? Probably, but that's just because I want to see the product improve, I say as I don't send this to Microsoft.
+
+As a whole, I'd give Windows 11, in its current state, a 4.2/10. It's got potential, but in its current state, I'd only recommend it to people who think the new Pringles logo is better than the old one.
