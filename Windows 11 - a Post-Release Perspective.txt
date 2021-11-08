@@ -1,0 +1,14 @@
+Windows 11 - a Post-Release Perspective
+=======================================
+
+Windows 11 came out (officially) over a month ago as of writing this. In that time, I have moved almost completely over to Arch and now I'm on Artix. While that could affect my opinion of Windows 11 slightly, as I made clear in my last document on the topic, I wasn't fond of many of the changes Windows 11 introduced in the beta anyway. 
+
+First Impressions
+=================
+
+Given I was already using Windows 11 for 3-4 months at this point, I can't really give a first impression anymore, but I thought I might as well start at the same place.
+
+Release to the Public
+=====================
+
+Windows 11 was definitely a lot more faulty after its release, at least in terms of news coverage. AMD processors specifically were suffering from worse performance because of a new CPU schedulerand you still can't get rid of the new right-click menu without a registry tweak that MS may or may not patch. I'd say basically all of the stuff I said still holds up. There is zero reason to "upgrade" unless you absolutely NEED a new feature in Win11.
